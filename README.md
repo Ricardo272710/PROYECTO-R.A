@@ -10,13 +10,9 @@
 <img src="https://telegra.ph/file/3ddf6b0a3a473936965d9.jpg" alt="Turbo-Bot-MD" width="900"/>
 </p>
 
-> 🌻𝗖𝗿𝗲𝗮𝗱𝗼𝗿: Tallycleark Ender(LB)
+> 🌻𝗖𝗿𝗲𝗮𝗱𝗼𝗿: Ivan
 
-> 🌼𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗲𝘀: AᴢᴀᴍɪJs(CT)
-
-> 🌼𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗲𝘀: Eɴᴢᴏ(GK)
-
-> 🌼𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗲𝘀: Axᴇʟ(BL)
+> 🌼𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗲𝘀: Ender
 
 
 
@@ -126,7 +122,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 
 ## <img src="https://i.pinimg.com/originals/19/80/6e/19806e91932e6054965fc83b85241270.gif" alt="Creator 🥳" width="42" height="42"> Creator 🥳
 
-* <a href="https://wa.me/50558124470"><img alt="Creator 🥳" src="https://img.shields.io/badge/Ender - Creator🥳-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+* <a href="https://wa.me/595972157130"><img alt="Creator 🥳" src="https://img.shields.io/badge/Ivan - Creator🥳-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 ## <img src="https://static.wikia.nocookie.net/nyancat/images/d/d3/Nyan-cat.gif/revision/latest/scale-to-width-down/400?cb=50576390682&path-prefix=es" alt="Grupo" width="45" height="43"> Bot Oficial 📍
 
@@ -144,4 +140,4 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 
 
 
-`𝕷𝖔𝖇𝖔-𝕭𝖔𝖙-𝕷𝖎𝖙𝖊 -  𝐄𝐧𝐝𝐞𝐫`
+`Turbo-Bot-MD -  Ivan`
