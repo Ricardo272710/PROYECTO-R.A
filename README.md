@@ -135,7 +135,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 <img src="https://contrib.rocks/image?repo=EnderJs-CreatorGL/Lobo-Bot-Lite" /> 
 </a>
 
-<a href="https://github.com/elias1524"><img src="http://readme-typing-svg.herokuapp.com?font=fira+Code&pause=1000&colored0707&width=435&lines=  By+Ender+tallyclerk+OFC+🐈🌻" height="40px"></a> 
+<a href="https://github.com/elias1524"><img src="http://readme-typing-svg.herokuapp.com?font=fira+Code&pause=1000&colored0707&width=435&lines=  By+Ivan+OFC+🌻" height="40px"></a> 
 </p>
 
 
