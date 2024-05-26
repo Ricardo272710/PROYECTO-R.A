@@ -9,19 +9,20 @@ import moment from 'moment-timezone';
 import { es } from "./lib/idiomas/total-idiomas.js"
 
 global.owner = [ 
-['50558124470', '𝐂𝐫𝐞𝐚𝐝𝐨𝐫 💖', true]]
+['595972157130', '𝐂𝐫𝐞𝐚𝐝𝐨𝐫 💖', true],
+['50558124470', 'Ender', true]]
 
 global.suittag = ['50558124470']
 global.prems = []
 
 global.lenguajeLB = es //idioma de lobobot
 
-global.packname = 'Lobo Bot Lite ☄️🧃';
-global.author = 'By Ender 🎭';
-global.wm = 'Lobo-Bot-Lite';
-global.titulowm = 'Lobo Bot';
-global.titulowm2 = `By Ender`
-global.igfg = 'By Ender'  ;
+global.packname = 'Turbo Bot MD ☄️🧃';
+global.author = 'By Ivan 🎭';
+global.wm = 'Turbo-Bot-MD';
+global.titulowm = 'Turbo Bot';
+global.titulowm2 = `By Ivan`
+global.igfg = 'By Ivan'  ;
 global.wait = '[🔮] ᴇᴊᴇᴄᴜᴛᴀɴᴅᴏ ᴇsᴘᴇʀᴇ ...';
 global.vs = 'V2';
 
