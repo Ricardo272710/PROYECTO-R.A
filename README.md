@@ -7,7 +7,7 @@
 </p> 
 
 <p align="center">
-<img src="https://telegra.ph/file/b779934250bddcd1cf47a.jpg" alt="Lobo-Bot-Lite" width="900"/>
+<img src="https://telegra.ph/file/3ddf6b0a3a473936965d9.jpg" alt="Turbo-Bot-MD" width="900"/>
 </p>
 
 > 🌻𝗖𝗿𝗲𝗮𝗱𝗼𝗿: Tallycleark Ender(LB)
