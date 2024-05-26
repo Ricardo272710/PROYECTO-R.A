@@ -14,7 +14,7 @@ ${saludo}¡!
 ⚡️ Escriba !menu Para Ver Los Comandos Que Dispongo!
 
 *🌹 Si Tienes Duda O Sugerencia Contacta A Mi Propietario: 🌼*
-🚩 +505 5812 4470 💚
+🚩 +595 972 157130 💚
 
 *🐥 Escribe !grupos Para Ver Los Grupos Oficiales Del Bot 🟢*
 
